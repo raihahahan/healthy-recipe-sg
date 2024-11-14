@@ -45,7 +45,7 @@ Ensure you have the following installed:
 
 1. **Clone the repository**:  
    ```bash
-   git clone https://github.com/raihahahan/healthy-recipe-generator.git
+   git clone https://github.com/raihahahan/healthy-recipe-sg.git
    cd healthy-recipe-generator
    ```
 
